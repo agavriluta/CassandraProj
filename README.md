@@ -1,8 +1,7 @@
 # Task Management Application - README
 
-Welcome to the Task Management Application! This document guides you through typical operations such as user creation,
-task management,
-and retrieval within this application.
+Welcome to the Task Management Application! This document contains console output as a result of work of this
+application.
 
 ---
 
